@@ -31,4 +31,8 @@ public class B implements C {
     public double ad() {
         return 11.09;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
