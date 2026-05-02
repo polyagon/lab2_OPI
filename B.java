@@ -23,4 +23,8 @@ public class B implements C {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
