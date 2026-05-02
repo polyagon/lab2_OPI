@@ -19,4 +19,8 @@ public class E implements C {
     public Object pp() {
         return this;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
