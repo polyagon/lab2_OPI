@@ -19,16 +19,4 @@ public class E implements C {
     public Object pp() {
         return this;
     }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
-
-    public java.util.List<String> jj() {
-        return new java.util.ArrayList<String>();
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }
