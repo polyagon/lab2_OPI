@@ -1,4 +1,4 @@
-public class E implements C {
+public class E extends null implements C {
 
     private int h = 1;
 

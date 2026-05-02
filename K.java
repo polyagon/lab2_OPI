@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private int b = 1;
 
