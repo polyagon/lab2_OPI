@@ -1,6 +1,6 @@
 public class C extends null {
 
-    int[] ii();
+    int[]   ii();
 
     Object pp();
 }
