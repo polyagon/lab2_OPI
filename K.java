@@ -19,4 +19,8 @@ public class K {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
