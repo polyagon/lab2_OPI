@@ -27,4 +27,8 @@ public class B implements C {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }
