@@ -11,12 +11,4 @@ public class K {
     public int af() {
         return -1;
     }
-
-    public int[] ii() {
-        return new int[]{4, 3, 2, 1};
-    }
-
-    public int ae() {
-        return java.lang.Math.abs(-7);
-    }
 }
