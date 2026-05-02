@@ -35,4 +35,8 @@ public class B implements C {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int ae() {
+        return 9;
+    }
 }

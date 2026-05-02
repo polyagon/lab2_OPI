@@ -35,4 +35,8 @@ public class E implements C {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
