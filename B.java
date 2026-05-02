@@ -19,8 +19,4 @@ public class B implements C {
     public Object pp() {
         return this;
     }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }
