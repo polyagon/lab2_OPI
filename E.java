@@ -1,0 +1,22 @@
+public class E implements C {
+
+    private int h = 1;
+
+    private long a = 1234;
+
+    public double ee() {
+        return 100.500;
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public Object pp() {
+        return this;
+    }
+}
