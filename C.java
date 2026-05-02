@@ -1,6 +1,6 @@
 public interface C {
 
-    int[] ii();
+    int[] ii() ; 
 
     Object pp();
 }
