@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private int b = 1;
 
@@ -10,6 +10,10 @@ public class K {
 
     public int af() {
         return -1;
+    }
+
+    public Object pp() {
+        return this;
     }
 
     public int[] ii() {
@@ -28,7 +32,15 @@ public class K {
         return new java.util.Random();
     }
 
-    public Object pp() {
-        return this;
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public byte oo() {
+        return 2;
     }
 }

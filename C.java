@@ -1,6 +1,10 @@
-public interface C {
+public class C extends null {
 
-    int[] ii() ; 
+    int[] ii();
 
     Object pp();
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }

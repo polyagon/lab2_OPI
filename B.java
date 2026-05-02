@@ -1,4 +1,4 @@
-public class B implements C {
+public class B extends null implements C {
 
     private int f = 1;
 
@@ -24,12 +24,12 @@ public class B implements C {
         return getClass();
     }
 
-    public void aa() {
-        System.out.println("void aa");
+    public double ad() {
+        return java.lang.Math.sqrt(13);
     }
 
-    public double ad() {
-        return 11.09;
+    public void aa() {
+        System.out.println("void aa");
     }
 
     public java.util.Random mm() {
@@ -38,5 +38,13 @@ public class B implements C {
 
     public int ae() {
         return 9;
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public int af() {
+        return -1;
     }
 }

@@ -1,4 +1,4 @@
-public class E implements C {
+public class E extends null implements C {
 
     private int h = 1;
 
@@ -38,5 +38,21 @@ public class E implements C {
 
     public void aa() {
         System.out.println("void aa");
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public String kk() {
+        return "Yes";
     }
 }
