@@ -1,4 +1,4 @@
-public class B implements C {
+public class B extends null implements C {
 
     private int f = 1;
 
@@ -26,5 +26,17 @@ public class B implements C {
 
     public void aa() {
         System.out.println("void aa");
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int ae() {
+        return 9;
     }
 }

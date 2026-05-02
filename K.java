@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private int b = 1;
 
@@ -18,5 +18,13 @@ public class K {
 
     public int ae() {
         return java.lang.Math.abs(-7);
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public Object pp() {
+        return this;
     }
 }
